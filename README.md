@@ -1,2 +1,2 @@
-# datascience-portfolo
+# datascience-portfolio
 Datascience Portfolio
