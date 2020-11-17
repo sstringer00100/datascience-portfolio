@@ -7,11 +7,23 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
 
 ## Contents 
 
-- ### Exploratory Data Analysis
-- ### Interactive Visualizations
-- ### Time Series Forecasting
 - ### Machine Learning
   - Python
     - Predicting Loan Defaults:
     - Anomaly Detection: 
+  - R  
+- ### Time Series Forecasting
+  - Python
+  - R
+    - [Forecasting The US Commercial Property Price Index:](https://github.com/sstringer00100/Time-Series-Multiple-Regression-in-R) A time series multiple regression model that is scenario-based to forecast for current trends and projects what the index will do given a recession similar to the '08-'09 Great Recession.  
 - ### Natural Language Processing
+  - Python 
+  - R 
+- ### Exploratory Data Analysis
+  - Python
+  - R
+- ### Interactive Visualizations
+  - Python 
+  - R
+  
+
