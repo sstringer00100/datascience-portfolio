@@ -11,5 +11,6 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
 - ### Interactive Visualizations
 - ### Time Series Forecasting
 - ### Machine Learning
-  - Predicting Loan Defaults: 
+  - Python
+    - Predicting Loan Defaults: 
 - ### Natural Language Processing
