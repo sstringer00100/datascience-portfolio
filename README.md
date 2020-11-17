@@ -6,7 +6,8 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
 
 
 ## Contents 
----
 
 - ### Exploratory Data Analysis
 - ### Interactive Visualizations
+- ### Time Series Forecasting
+- ### Machine Learning
