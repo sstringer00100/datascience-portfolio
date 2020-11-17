@@ -24,6 +24,9 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
   - R
 - ### Interactive Visualizations
   - Python 
+    - Plotly 
+    - Dash
   - R
+    - Plotly
   
 
