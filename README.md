@@ -15,7 +15,8 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
 - ### Time Series Forecasting
   - Python
   - R
-    - [Forecasting The US Commercial Property Price Index:](https://github.com/sstringer00100/Time-Series-Multiple-Regression-in-R) A time series multiple regression model that is scenario-based to forecast for current trends and projects what the index will do given a recession similar to the '08-'09 Great Recession.  
+    - [Forecasting The US Commercial Property Price Index:](https://github.com/sstringer00100/Time-Series-Multiple-Regression-in-R) A time series multiple regression model that is scenario-based to forecast for current trends and projects what the index will do given a recession similar to the '08-'09 Great Recession.
+    - [Airline Load Factor Forecast:]() An ensemble method to forecast for load factor to find future opportunities and understand operations. 
 - ### Natural Language Processing
   - Python 
   - R 
