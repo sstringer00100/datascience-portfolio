@@ -9,7 +9,7 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
 
 - ### Machine Learning
   - Python
-    - [Predicting Loan Defaults:]() A credit risk model utilizing logistic regression and an XGB model to determine the probability of default with data sourced from LendingClub.
+    - [Predicting Loan Defaults:]() A credit risk model utilizing logistic regression and an XGBoost model to determine the probability of default with data sourced from LendingClub.
     - [Anomaly Detection:]()  
   - R  
 - ### Time Series Forecasting
