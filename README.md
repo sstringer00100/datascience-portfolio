@@ -9,8 +9,8 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
 
 - ### Machine Learning
   - Python
-    - Predicting Loan Defaults:
-    - Anomaly Detection: 
+    - [Predicting Loan Defaults:]()A credit risk model utilizing logistic regression and an XGB model to determine the probability of default with data sources from LendingClub.
+    - [Anomaly Detection:]()  
   - R  
 - ### Time Series Forecasting
   - Python
@@ -19,6 +19,7 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
     - [Airline Load Factor Forecast:]() An ensemble method to forecast for load factor to find future opportunities and understand operations. 
 - ### Natural Language Processing
   - Python 
+    - [NLP for SEO:]() Using text analytics for SEO analysis of ads pulled from the Google search API.
   - R 
 - ### Exploratory Data Analysis
   - Python
