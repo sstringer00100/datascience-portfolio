@@ -21,6 +21,7 @@ I've also built a portfolio site using the [minimalmistakes](https://mmistakes.g
   - Python 
     - [NLP for SEO:]() Using text analytics for SEO analysis of ads pulled from the Google search API.
   - R 
+    - [Twitter Text Analysis for Marketing:]() A project that implements Twitter's API to analyze marketing posts using Laten Dirichlet Allocation for topic modeling. 
 - ### Exploratory Data Analysis
   - Python
   - R
